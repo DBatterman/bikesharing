@@ -32,7 +32,19 @@ In addition to gender, we want to see the age range of people using our bikes. W
 
 What we see here is predominantely younger people renting bikes, so we also want to gear towards having the bikes in a location where more young people can see them vs old people.
 
+Now that we have all who is using our bikes and know when they're being used, we should see some more detail on usage pattern. Here is how things breakdown by the days of the week, and specific hours of each day:
+
+![image](https://user-images.githubusercontent.com/98666269/168528500-db167f4e-4ea8-4a40-bace-95d94ee38a60.png)
+
+It seems like the highest use periods are specifically 6am-9am, and 4pm-7pm on weekdays with solid use between 10am-7pm on weekends. This is likely because people are renting bikes to head to work as a lower cost method of travel. 
+
+Breaking things further down by gender, we see the following over these three images:
+
+![image](https://user-images.githubusercontent.com/98666269/168529367-935f94cc-02e8-4bc6-bac2-0ccb5a25b8a2.png)
+![image](https://user-images.githubusercontent.com/98666269/168529455-0f39fc04-41d1-45ad-8916-0dc7bd3172b1.png)
+![image](https://user-images.githubusercontent.com/98666269/168529519-c5d10e2e-be6b-467c-86dc-398f23742c68.png)
+
 
 ## Summary
 
-
+It
