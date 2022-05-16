@@ -44,7 +44,12 @@ Breaking things further down by gender, we see the following over these three im
 ![image](https://user-images.githubusercontent.com/98666269/168529455-0f39fc04-41d1-45ad-8916-0dc7bd3172b1.png)
 ![image](https://user-images.githubusercontent.com/98666269/168529519-c5d10e2e-be6b-467c-86dc-398f23742c68.png)
 
+Like previously, we see the majority of our users are male. This goes to further our guess that people are using this to go to work. In order to back that up, let's take one final look at how many trips are being taken by each gender every day of the week:
+
+![image](https://user-images.githubusercontent.com/98666269/168530402-9f0d9580-2939-49e7-b362-f351554d2073.png)
+
+This shows heavy usage during weekdays by men who have signed up to use the bikes regularly. That backs up our belief that the primary target audience is young men who ride these bikes to work.
 
 ## Summary
 
-It
+Overall, the data suggests that if there are lot of young men that can pay who are looking for alternate forms of transportation to work, opening up a bike sharing company in Des Moines is a good idea. The data backs this up as it consistently shows male users with peak usage during work hours. This business plan however hindges on two things that are outside of the citibike data. The first is how many men are in Des Moines? The second is what is the average age of men in Des Moines? We would need to take a look at census data to find out the answer to both of those questions.
